@@ -1,0 +1,5 @@
+# Asegúrate de tener instalado grpcio-tools
+python -m pip install grpcio grpcio-tools
+
+# Ejecutar el compilador de proto para Python
+python -m grpc_tools.protoc -I. --python_out=. --grpc_python_out=. orders.proto
