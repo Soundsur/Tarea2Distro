@@ -1,0 +1,501 @@
+NombreProducto,Precio,PasarelaPago,MarcaTarjeta,Banco,Region,Direccion,Correo
+Reloj inteligente,514.2,Authorize.net,MasterCard,Banco del Pueblo,Norteamérica,901 Vía Antigua,user309@ficticio.com
+Reloj inteligente,25.53,PayPal,Amex,Banco Ficticio,Sudamérica,197 Avenida Real,user2605@ejemplo.com
+Cámara,1921.15,Authorize.net,Discover,Banco del Pueblo,África,901 Vía Antigua,user2382@dominio.com
+Auriculares,659.6,Square,Maestro,Banco del Pueblo,Norteamérica,197 Avenida Real,user2492@ficticio.com
+Smartphone,171.07,Stripe,MasterCard,Banco Nacional,Europa,901 Vía Antigua,user1619@dominio.com
+Cámara,982.17,Apple Pay,Visa,Banco Ficticio,Asia,901 Vía Antigua,user3273@ficticio.com
+Cámara,1515.66,PayPal,Maestro,Banco Nacional,Asia,901 Vía Antigua,user8209@ficticio.com
+Impresora,817.83,PayPal,Maestro,Banco Internacional,Norteamérica,197 Avenida Real,user309@correo.com
+Auriculares,551.56,PayPal,Amex,Banco Seguro,África,197 Avenida Real,user6630@ficticio.com
+Monitor,613.92,Google Pay,Amex,Banco Ficticio,Oceanía,714 Calle Falsa,user6885@correo.com
+Consola,1059.78,PayPal,Maestro,Banco del Pueblo,Norteamérica,363 Camino Nuevo,user7714@dominio.com
+Tablet,1373.77,Square,Visa,Banco Ficticio,África,901 Vía Antigua,user819@dominio.com
+Smartphone,1728.94,PayPal,MasterCard,Banco Seguro,Norteamérica,363 Camino Nuevo,user3444@dominio.com
+Consola,1338.31,Authorize.net,Discover,Banco Internacional,Oceanía,197 Avenida Real,user8594@ficticio.com
+Auriculares,282.35,Square,Amex,Banco Ficticio,Oceanía,197 Avenida Real,user5670@ficticio.com
+Smartphone,211.58,Apple Pay,Discover,Banco del Pueblo,África,901 Vía Antigua,user3426@ficticio.com
+Impresora,1717.41,Google Pay,Amex,Banco Internacional,Europa,363 Camino Nuevo,user6050@ejemplo.com
+Impresora,1264.74,PayPal,Amex,Banco Internacional,África,197 Avenida Real,user197@dominio.com
+Reloj inteligente,1397.02,PayPal,Amex,Banco Seguro,Norteamérica,197 Avenida Real,user3497@correo.com
+Monitor,1966.52,PayPal,MasterCard,Banco Ficticio,Oceanía,714 Calle Falsa,user3884@ejemplo.com
+Laptop,1831.12,Google Pay,Maestro,Banco Seguro,Asia,197 Avenida Real,user2184@ejemplo.com
+Impresora,1839.0,Stripe,Discover,Banco del Pueblo,África,363 Camino Nuevo,user3369@dominio.com
+Consola,829.07,Stripe,Visa,Banco del Pueblo,Oceanía,714 Calle Falsa,user4133@correo.com
+Televisor,1234.71,Stripe,MasterCard,Banco Internacional,Norteamérica,363 Camino Nuevo,user7736@correo.com
+Reloj inteligente,997.75,Google Pay,MasterCard,Banco Seguro,Sudamérica,901 Vía Antigua,user6905@ejemplo.com
+Reloj inteligente,1707.3,PayPal,Maestro,Banco Ficticio,Asia,197 Avenida Real,user6091@ficticio.com
+Smartphone,1640.81,Stripe,Discover,Banco del Pueblo,Oceanía,901 Vía Antigua,user1721@dominio.com
+Impresora,1604.21,PayPal,Discover,Banco Ficticio,Norteamérica,714 Calle Falsa,user3722@ejemplo.com
+Reloj inteligente,356.31,Authorize.net,MasterCard,Banco Internacional,Oceanía,901 Vía Antigua,user1589@dominio.com
+Consola,1072.92,Stripe,MasterCard,Banco Nacional,Sudamérica,363 Camino Nuevo,user1460@dominio.com
+Impresora,290.1,Square,Discover,Banco Ficticio,África,363 Camino Nuevo,user8858@ejemplo.com
+Televisor,1750.13,Stripe,Maestro,Banco Seguro,Oceanía,363 Camino Nuevo,user5660@ficticio.com
+Laptop,232.09,PayPal,Amex,Banco Nacional,Europa,714 Calle Falsa,user8222@correo.com
+Consola,1640.37,Stripe,MasterCard,Banco Ficticio,Asia,197 Avenida Real,user1499@ficticio.com
+Auriculares,1164.08,Stripe,Visa,Banco Internacional,Asia,363 Camino Nuevo,user8225@dominio.com
+Televisor,106.17,Stripe,Amex,Banco Seguro,Europa,197 Avenida Real,user9955@ficticio.com
+Tablet,708.66,PayPal,Amex,Banco Internacional,Asia,197 Avenida Real,user3674@dominio.com
+Televisor,711.37,Google Pay,Visa,Banco del Pueblo,África,363 Camino Nuevo,user4716@correo.com
+Cámara,1643.83,Google Pay,Discover,Banco Ficticio,Oceanía,714 Calle Falsa,user8517@ficticio.com
+Impresora,790.12,Authorize.net,Maestro,Banco Seguro,Asia,714 Calle Falsa,user971@dominio.com
+Reloj inteligente,1300.17,Google Pay,MasterCard,Banco del Pueblo,Norteamérica,714 Calle Falsa,user6294@correo.com
+Laptop,178.27,Stripe,Amex,Banco Internacional,Oceanía,901 Vía Antigua,user3181@correo.com
+Impresora,843.82,Apple Pay,Visa,Banco del Pueblo,Norteamérica,363 Camino Nuevo,user3350@dominio.com
+Monitor,229.27,Apple Pay,Discover,Banco Nacional,Sudamérica,901 Vía Antigua,user1265@ejemplo.com
+Consola,1060.73,Google Pay,Maestro,Banco Seguro,Sudamérica,363 Camino Nuevo,user6015@correo.com
+Auriculares,410.22,PayPal,Amex,Banco Seguro,África,714 Calle Falsa,user716@ficticio.com
+Televisor,65.25,Square,MasterCard,Banco Ficticio,Norteamérica,363 Camino Nuevo,user3238@dominio.com
+Impresora,486.77,PayPal,Visa,Banco del Pueblo,Sudamérica,901 Vía Antigua,user132@correo.com
+Tablet,720.32,Stripe,MasterCard,Banco Nacional,Europa,901 Vía Antigua,user8735@ficticio.com
+Monitor,397.43,Square,MasterCard,Banco Seguro,Norteamérica,714 Calle Falsa,user3999@ficticio.com
+Televisor,1453.32,Stripe,Maestro,Banco Internacional,Oceanía,363 Camino Nuevo,user1602@ejemplo.com
+Reloj inteligente,828.35,Google Pay,MasterCard,Banco Nacional,Sudamérica,363 Camino Nuevo,user6912@ejemplo.com
+Monitor,335.37,Google Pay,Maestro,Banco Ficticio,Sudamérica,363 Camino Nuevo,user1460@ficticio.com
+Monitor,605.26,Google Pay,Discover,Banco Nacional,África,714 Calle Falsa,user7233@ficticio.com
+Monitor,815.7,PayPal,Visa,Banco Ficticio,Asia,901 Vía Antigua,user1190@ficticio.com
+Cámara,965.77,Authorize.net,MasterCard,Banco del Pueblo,Asia,197 Avenida Real,user1837@ejemplo.com
+Tablet,1600.48,Authorize.net,Visa,Banco Nacional,Europa,363 Camino Nuevo,user5265@ficticio.com
+Reloj inteligente,1008.69,Authorize.net,Visa,Banco Internacional,Oceanía,901 Vía Antigua,user4865@ejemplo.com
+Auriculares,1816.72,PayPal,Visa,Banco Internacional,Europa,714 Calle Falsa,user3336@ejemplo.com
+Auriculares,527.3,Apple Pay,Discover,Banco Internacional,Norteamérica,714 Calle Falsa,user2888@dominio.com
+Cámara,1580.09,Google Pay,Discover,Banco del Pueblo,Norteamérica,197 Avenida Real,user7070@correo.com
+Televisor,1206.09,Square,Maestro,Banco Seguro,Norteamérica,901 Vía Antigua,user770@ejemplo.com
+Reloj inteligente,950.31,Google Pay,Visa,Banco Seguro,Asia,363 Camino Nuevo,user4544@ficticio.com
+Tablet,789.37,Authorize.net,MasterCard,Banco Nacional,Asia,197 Avenida Real,user7540@correo.com
+Monitor,1508.38,Apple Pay,MasterCard,Banco Ficticio,África,714 Calle Falsa,user6739@correo.com
+Monitor,1504.56,Square,Amex,Banco Internacional,Asia,197 Avenida Real,user1797@ejemplo.com
+Consola,1414.11,Stripe,Visa,Banco Nacional,Sudamérica,363 Camino Nuevo,user19@ficticio.com
+Reloj inteligente,1714.12,Square,Visa,Banco Internacional,Asia,197 Avenida Real,user5769@dominio.com
+Tablet,431.22,Stripe,Amex,Banco Ficticio,Asia,197 Avenida Real,user8324@ficticio.com
+Auriculares,1969.09,Square,Amex,Banco Ficticio,Asia,363 Camino Nuevo,user8414@ejemplo.com
+Impresora,1034.07,Apple Pay,Discover,Banco Internacional,Asia,714 Calle Falsa,user4716@dominio.com
+Televisor,1371.72,PayPal,Visa,Banco del Pueblo,Norteamérica,901 Vía Antigua,user5296@ejemplo.com
+Impresora,579.11,Google Pay,Visa,Banco Nacional,Oceanía,714 Calle Falsa,user4455@dominio.com
+Reloj inteligente,219.37,Stripe,Visa,Banco del Pueblo,Europa,714 Calle Falsa,user7015@correo.com
+Impresora,1294.39,Square,Maestro,Banco Seguro,Sudamérica,363 Camino Nuevo,user6699@dominio.com
+Cámara,1858.63,Google Pay,Amex,Banco Internacional,Europa,714 Calle Falsa,user4591@ejemplo.com
+Monitor,1982.92,Apple Pay,MasterCard,Banco Internacional,Oceanía,714 Calle Falsa,user2548@ejemplo.com
+Cámara,1906.88,Authorize.net,Discover,Banco Seguro,África,901 Vía Antigua,user2585@correo.com
+Auriculares,949.24,Authorize.net,Amex,Banco Nacional,Sudamérica,363 Camino Nuevo,user8667@dominio.com
+Televisor,1771.35,Authorize.net,Discover,Banco Nacional,Oceanía,714 Calle Falsa,user8480@dominio.com
+Cámara,848.52,Square,MasterCard,Banco Nacional,Oceanía,901 Vía Antigua,user5346@ejemplo.com
+Smartphone,385.64,Authorize.net,MasterCard,Banco Nacional,Europa,197 Avenida Real,user5368@correo.com
+Televisor,947.73,Apple Pay,Visa,Banco del Pueblo,Sudamérica,363 Camino Nuevo,user5328@ejemplo.com
+Impresora,208.17,PayPal,Visa,Banco del Pueblo,África,714 Calle Falsa,user8826@ficticio.com
+Televisor,1688.84,Stripe,MasterCard,Banco Ficticio,África,363 Camino Nuevo,user424@ejemplo.com
+Reloj inteligente,1509.56,Square,Maestro,Banco Nacional,Oceanía,197 Avenida Real,user2267@correo.com
+Smartphone,1057.78,Authorize.net,Maestro,Banco Internacional,Sudamérica,363 Camino Nuevo,user4624@ejemplo.com
+Cámara,775.64,Square,Visa,Banco del Pueblo,Europa,363 Camino Nuevo,user9980@ejemplo.com
+Reloj inteligente,1405.84,Square,Maestro,Banco Nacional,Oceanía,714 Calle Falsa,user9155@correo.com
+Tablet,195.03,PayPal,Discover,Banco Nacional,Sudamérica,714 Calle Falsa,user8894@ficticio.com
+Monitor,1595.81,Square,MasterCard,Banco Ficticio,Norteamérica,714 Calle Falsa,user3687@correo.com
+Reloj inteligente,622.28,Stripe,MasterCard,Banco del Pueblo,Norteamérica,197 Avenida Real,user5185@ejemplo.com
+Consola,1822.18,Stripe,Amex,Banco Nacional,Norteamérica,901 Vía Antigua,user9059@correo.com
+Smartphone,777.48,Google Pay,Amex,Banco Nacional,Asia,363 Camino Nuevo,user3110@dominio.com
+Cámara,835.12,Stripe,Visa,Banco Nacional,Norteamérica,197 Avenida Real,user5713@correo.com
+Tablet,118.25,PayPal,MasterCard,Banco del Pueblo,Oceanía,714 Calle Falsa,user9019@ejemplo.com
+Tablet,1031.17,Authorize.net,Discover,Banco Internacional,Norteamérica,901 Vía Antigua,user9872@ficticio.com
+Impresora,190.89,Authorize.net,Discover,Banco Internacional,Oceanía,901 Vía Antigua,user728@correo.com
+Reloj inteligente,1231.66,Apple Pay,Visa,Banco del Pueblo,Sudamérica,714 Calle Falsa,user2513@correo.com
+Impresora,1780.95,PayPal,Visa,Banco del Pueblo,Europa,714 Calle Falsa,user3902@dominio.com
+Monitor,1809.12,Google Pay,Discover,Banco Ficticio,Norteamérica,714 Calle Falsa,user7321@dominio.com
+Televisor,225.94,Google Pay,Visa,Banco Nacional,Europa,363 Camino Nuevo,user3806@ficticio.com
+Smartphone,1712.62,Square,Discover,Banco del Pueblo,África,901 Vía Antigua,user4212@correo.com
+Impresora,1639.19,Stripe,Discover,Banco Seguro,Oceanía,197 Avenida Real,user181@correo.com
+Impresora,721.97,Authorize.net,MasterCard,Banco Internacional,Norteamérica,363 Camino Nuevo,user8338@dominio.com
+Cámara,175.53,PayPal,Visa,Banco Internacional,África,197 Avenida Real,user551@dominio.com
+Cámara,1762.61,Apple Pay,Maestro,Banco Internacional,Sudamérica,197 Avenida Real,user6502@ficticio.com
+Smartphone,1187.19,PayPal,MasterCard,Banco Nacional,África,714 Calle Falsa,user927@dominio.com
+Televisor,1268.63,Square,MasterCard,Banco Internacional,Sudamérica,363 Camino Nuevo,user7502@ficticio.com
+Smartphone,176.59,Google Pay,Discover,Banco del Pueblo,África,363 Camino Nuevo,user5243@ejemplo.com
+Cámara,905.4,Stripe,Visa,Banco del Pueblo,Oceanía,714 Calle Falsa,user795@correo.com
+Televisor,1164.85,Authorize.net,MasterCard,Banco Seguro,África,197 Avenida Real,user4993@correo.com
+Consola,1806.71,Square,Amex,Banco Internacional,Norteamérica,363 Camino Nuevo,user25@ficticio.com
+Tablet,1001.16,Apple Pay,Visa,Banco Ficticio,África,901 Vía Antigua,user8677@ficticio.com
+Reloj inteligente,1300.13,PayPal,Amex,Banco Ficticio,Norteamérica,197 Avenida Real,user9834@dominio.com
+Cámara,1934.22,Stripe,Amex,Banco Seguro,Sudamérica,363 Camino Nuevo,user8717@ejemplo.com
+Cámara,1876.34,PayPal,Maestro,Banco del Pueblo,Oceanía,197 Avenida Real,user9109@correo.com
+Auriculares,1917.64,Authorize.net,Amex,Banco del Pueblo,Oceanía,197 Avenida Real,user3197@correo.com
+Auriculares,355.24,Apple Pay,MasterCard,Banco Seguro,Sudamérica,363 Camino Nuevo,user2535@dominio.com
+Televisor,1189.8,Square,Visa,Banco Nacional,Asia,901 Vía Antigua,user3364@ejemplo.com
+Televisor,276.1,Apple Pay,Visa,Banco Internacional,Sudamérica,197 Avenida Real,user7380@ejemplo.com
+Auriculares,571.43,Authorize.net,MasterCard,Banco Ficticio,Europa,714 Calle Falsa,user4049@dominio.com
+Tablet,14.47,Google Pay,MasterCard,Banco Internacional,Europa,363 Camino Nuevo,user4718@correo.com
+Reloj inteligente,730.72,Google Pay,MasterCard,Banco Seguro,Norteamérica,363 Camino Nuevo,user3384@correo.com
+Smartphone,470.31,Google Pay,MasterCard,Banco Ficticio,África,197 Avenida Real,user8042@ficticio.com
+Monitor,1004.68,PayPal,MasterCard,Banco Nacional,Asia,197 Avenida Real,user4897@dominio.com
+Laptop,1378.86,Authorize.net,Maestro,Banco Nacional,África,714 Calle Falsa,user5456@correo.com
+Impresora,1810.04,Apple Pay,Discover,Banco del Pueblo,Oceanía,363 Camino Nuevo,user5688@correo.com
+Auriculares,1481.23,Apple Pay,Visa,Banco del Pueblo,Norteamérica,197 Avenida Real,user7173@ficticio.com
+Consola,1678.16,Stripe,MasterCard,Banco Ficticio,Asia,197 Avenida Real,user3184@dominio.com
+Auriculares,1197.11,Authorize.net,Visa,Banco Nacional,Sudamérica,901 Vía Antigua,user6881@dominio.com
+Consola,329.03,Square,MasterCard,Banco Seguro,Europa,714 Calle Falsa,user996@correo.com
+Televisor,1164.12,Apple Pay,Visa,Banco Ficticio,Europa,714 Calle Falsa,user6271@ejemplo.com
+Auriculares,328.61,Apple Pay,Maestro,Banco Nacional,Sudamérica,363 Camino Nuevo,user7473@dominio.com
+Televisor,326.95,Apple Pay,Maestro,Banco Internacional,Sudamérica,714 Calle Falsa,user4554@correo.com
+Laptop,1248.56,Square,Maestro,Banco Seguro,África,714 Calle Falsa,user5519@ejemplo.com
+Smartphone,671.82,PayPal,Amex,Banco Ficticio,Asia,363 Camino Nuevo,user4439@dominio.com
+Monitor,1510.46,Stripe,Amex,Banco Internacional,Asia,901 Vía Antigua,user1994@dominio.com
+Smartphone,1580.17,Apple Pay,Discover,Banco Nacional,Norteamérica,901 Vía Antigua,user6524@correo.com
+Laptop,248.28,Square,MasterCard,Banco Ficticio,Asia,714 Calle Falsa,user242@correo.com
+Impresora,1038.79,Square,Maestro,Banco Ficticio,Sudamérica,363 Camino Nuevo,user9250@dominio.com
+Consola,1201.56,Stripe,Amex,Banco del Pueblo,Europa,197 Avenida Real,user2741@ficticio.com
+Smartphone,1547.07,Authorize.net,MasterCard,Banco Seguro,Norteamérica,197 Avenida Real,user7751@ejemplo.com
+Smartphone,723.78,Square,MasterCard,Banco Seguro,Sudamérica,901 Vía Antigua,user38@ficticio.com
+Auriculares,1365.41,Stripe,MasterCard,Banco Seguro,África,901 Vía Antigua,user8961@ficticio.com
+Smartphone,783.22,Google Pay,MasterCard,Banco Seguro,Asia,197 Avenida Real,user4068@ejemplo.com
+Cámara,1772.51,Google Pay,MasterCard,Banco Nacional,Asia,363 Camino Nuevo,user8323@correo.com
+Impresora,137.89,Authorize.net,Maestro,Banco del Pueblo,Norteamérica,363 Camino Nuevo,user8581@correo.com
+Impresora,244.23,Square,Maestro,Banco Nacional,Norteamérica,363 Camino Nuevo,user9147@dominio.com
+Consola,133.45,PayPal,MasterCard,Banco Seguro,Oceanía,363 Camino Nuevo,user5750@correo.com
+Smartphone,1289.91,PayPal,MasterCard,Banco Internacional,Norteamérica,363 Camino Nuevo,user8630@ficticio.com
+Consola,1386.75,Authorize.net,Discover,Banco Internacional,Oceanía,363 Camino Nuevo,user2401@ejemplo.com
+Televisor,250.08,Stripe,Maestro,Banco Seguro,África,363 Camino Nuevo,user8141@ficticio.com
+Televisor,373.59,Authorize.net,Amex,Banco Ficticio,Norteamérica,901 Vía Antigua,user5927@dominio.com
+Consola,314.73,Square,Maestro,Banco Nacional,África,363 Camino Nuevo,user2265@correo.com
+Televisor,853.42,Square,MasterCard,Banco Nacional,Oceanía,714 Calle Falsa,user7563@dominio.com
+Televisor,41.06,PayPal,Discover,Banco Nacional,Sudamérica,901 Vía Antigua,user8339@dominio.com
+Impresora,1039.17,Stripe,Visa,Banco Nacional,Norteamérica,714 Calle Falsa,user9001@ficticio.com
+Monitor,640.48,Square,Discover,Banco Ficticio,Norteamérica,197 Avenida Real,user2651@ficticio.com
+Impresora,1315.88,Apple Pay,Amex,Banco Ficticio,Europa,901 Vía Antigua,user5352@ejemplo.com
+Auriculares,1053.34,PayPal,Amex,Banco Seguro,Sudamérica,197 Avenida Real,user358@ejemplo.com
+Tablet,355.26,Apple Pay,Maestro,Banco Internacional,África,363 Camino Nuevo,user1787@dominio.com
+Monitor,1929.23,Google Pay,Maestro,Banco Nacional,Norteamérica,714 Calle Falsa,user4551@ficticio.com
+Impresora,1176.44,Stripe,Discover,Banco del Pueblo,Sudamérica,901 Vía Antigua,user6773@correo.com
+Tablet,695.55,Square,Amex,Banco Seguro,Asia,197 Avenida Real,user8031@dominio.com
+Smartphone,1977.25,Google Pay,Maestro,Banco Internacional,Europa,197 Avenida Real,user6292@correo.com
+Monitor,95.02,Authorize.net,MasterCard,Banco Ficticio,Norteamérica,901 Vía Antigua,user1873@correo.com
+Impresora,65.56,Stripe,Maestro,Banco Internacional,Europa,714 Calle Falsa,user4972@correo.com
+Monitor,1457.36,Apple Pay,MasterCard,Banco Seguro,Sudamérica,901 Vía Antigua,user4104@ejemplo.com
+Laptop,1084.99,Square,Visa,Banco del Pueblo,Norteamérica,714 Calle Falsa,user6606@correo.com
+Auriculares,1859.1,Stripe,MasterCard,Banco del Pueblo,Sudamérica,714 Calle Falsa,user8443@ejemplo.com
+Auriculares,1713.91,Apple Pay,Visa,Banco Nacional,África,714 Calle Falsa,user9208@dominio.com
+Tablet,540.53,PayPal,Discover,Banco Ficticio,Asia,363 Camino Nuevo,user3675@ficticio.com
+Laptop,1994.74,Square,Visa,Banco del Pueblo,Oceanía,714 Calle Falsa,user9502@dominio.com
+Reloj inteligente,1619.24,Google Pay,Discover,Banco Seguro,Norteamérica,714 Calle Falsa,user1214@ejemplo.com
+Reloj inteligente,1654.78,Google Pay,Visa,Banco Ficticio,Europa,901 Vía Antigua,user5192@ejemplo.com
+Smartphone,793.2,Stripe,Visa,Banco Ficticio,Asia,901 Vía Antigua,user931@ejemplo.com
+Impresora,716.23,Authorize.net,Discover,Banco Nacional,Oceanía,363 Camino Nuevo,user7585@ejemplo.com
+Smartphone,1407.7,Square,Visa,Banco Nacional,Sudamérica,714 Calle Falsa,user3341@dominio.com
+Laptop,1349.88,Authorize.net,MasterCard,Banco Seguro,Asia,901 Vía Antigua,user744@ejemplo.com
+Laptop,1615.23,PayPal,Discover,Banco del Pueblo,Oceanía,901 Vía Antigua,user5703@ejemplo.com
+Auriculares,1445.07,PayPal,MasterCard,Banco del Pueblo,Asia,363 Camino Nuevo,user4538@ejemplo.com
+Impresora,1706.18,Stripe,MasterCard,Banco Internacional,África,901 Vía Antigua,user5597@ficticio.com
+Auriculares,180.06,Stripe,Amex,Banco Nacional,Asia,197 Avenida Real,user9505@ejemplo.com
+Laptop,1612.98,Apple Pay,Visa,Banco Nacional,Asia,363 Camino Nuevo,user4796@ejemplo.com
+Impresora,547.41,Authorize.net,Maestro,Banco Seguro,Oceanía,714 Calle Falsa,user1733@correo.com
+Impresora,1666.66,Square,Maestro,Banco Ficticio,Oceanía,901 Vía Antigua,user7968@ejemplo.com
+Auriculares,406.73,Apple Pay,Discover,Banco Seguro,África,714 Calle Falsa,user8402@dominio.com
+Monitor,1621.89,PayPal,Amex,Banco Seguro,Asia,363 Camino Nuevo,user2940@ejemplo.com
+Tablet,359.25,Google Pay,Discover,Banco Ficticio,Oceanía,363 Camino Nuevo,user9582@correo.com
+Smartphone,1438.78,Stripe,MasterCard,Banco Ficticio,Oceanía,901 Vía Antigua,user8352@ficticio.com
+Reloj inteligente,1699.84,Apple Pay,Visa,Banco Nacional,Europa,714 Calle Falsa,user1285@ficticio.com
+Auriculares,680.7,Apple Pay,Maestro,Banco Ficticio,Asia,363 Camino Nuevo,user8344@dominio.com
+Televisor,223.32,Square,Visa,Banco Internacional,Oceanía,901 Vía Antigua,user9277@ejemplo.com
+Monitor,158.23,Square,MasterCard,Banco Seguro,África,901 Vía Antigua,user2859@correo.com
+Tablet,841.31,PayPal,Visa,Banco del Pueblo,Sudamérica,197 Avenida Real,user9784@ficticio.com
+Reloj inteligente,165.24,Authorize.net,Discover,Banco Internacional,Europa,197 Avenida Real,user7888@dominio.com
+Cámara,59.69,Apple Pay,Amex,Banco Internacional,Europa,363 Camino Nuevo,user1631@ejemplo.com
+Smartphone,1055.96,Stripe,Amex,Banco del Pueblo,Asia,714 Calle Falsa,user1102@correo.com
+Televisor,848.94,Authorize.net,Amex,Banco Seguro,Norteamérica,714 Calle Falsa,user5038@dominio.com
+Impresora,355.84,Stripe,MasterCard,Banco Nacional,Sudamérica,901 Vía Antigua,user2558@ficticio.com
+Smartphone,201.1,PayPal,Visa,Banco Internacional,África,197 Avenida Real,user7272@ejemplo.com
+Monitor,186.89,Authorize.net,Discover,Banco Nacional,Sudamérica,714 Calle Falsa,user9837@dominio.com
+Auriculares,238.82,Apple Pay,MasterCard,Banco Seguro,Asia,714 Calle Falsa,user462@dominio.com
+Consola,134.4,Square,Discover,Banco Ficticio,Sudamérica,901 Vía Antigua,user3061@ejemplo.com
+Monitor,1215.2,Authorize.net,Discover,Banco del Pueblo,Asia,363 Camino Nuevo,user3743@ejemplo.com
+Tablet,1835.22,Authorize.net,MasterCard,Banco Internacional,Sudamérica,901 Vía Antigua,user8403@ejemplo.com
+Tablet,760.39,Apple Pay,Visa,Banco del Pueblo,Sudamérica,714 Calle Falsa,user395@correo.com
+Smartphone,1915.35,Apple Pay,Visa,Banco Seguro,Sudamérica,363 Camino Nuevo,user4843@ficticio.com
+Cámara,85.27,Square,Amex,Banco Nacional,Oceanía,197 Avenida Real,user2231@dominio.com
+Reloj inteligente,431.46,PayPal,Discover,Banco Ficticio,Asia,714 Calle Falsa,user6630@ficticio.com
+Televisor,1501.11,Stripe,Visa,Banco Ficticio,África,901 Vía Antigua,user4800@dominio.com
+Consola,1660.86,Apple Pay,Maestro,Banco Seguro,Europa,363 Camino Nuevo,user7032@ejemplo.com
+Smartphone,23.82,PayPal,Amex,Banco Ficticio,Asia,714 Calle Falsa,user7730@ejemplo.com
+Televisor,938.67,Apple Pay,Visa,Banco Nacional,África,714 Calle Falsa,user5238@dominio.com
+Auriculares,1633.05,Google Pay,Visa,Banco Seguro,Oceanía,363 Camino Nuevo,user9994@ejemplo.com
+Monitor,516.52,Stripe,Discover,Banco Seguro,Asia,197 Avenida Real,user7625@ejemplo.com
+Auriculares,103.96,Authorize.net,Visa,Banco Ficticio,Sudamérica,714 Calle Falsa,user519@ficticio.com
+Televisor,1092.5,Apple Pay,Visa,Banco Ficticio,Norteamérica,714 Calle Falsa,user9516@ficticio.com
+Tablet,1203.95,Authorize.net,Visa,Banco Ficticio,Oceanía,363 Camino Nuevo,user9636@ejemplo.com
+Laptop,645.01,Apple Pay,Discover,Banco Ficticio,Asia,901 Vía Antigua,user4115@correo.com
+Auriculares,1012.67,Apple Pay,Amex,Banco Nacional,Europa,714 Calle Falsa,user3520@ficticio.com
+Impresora,136.32,PayPal,Maestro,Banco Nacional,Oceanía,197 Avenida Real,user2710@ficticio.com
+Impresora,330.56,Square,Visa,Banco Ficticio,Asia,197 Avenida Real,user8328@dominio.com
+Smartphone,738.79,Google Pay,Maestro,Banco Ficticio,Norteamérica,901 Vía Antigua,user9869@correo.com
+Cámara,482.03,Square,Discover,Banco del Pueblo,África,901 Vía Antigua,user5439@ficticio.com
+Impresora,1779.65,Google Pay,Amex,Banco Internacional,Oceanía,197 Avenida Real,user2381@correo.com
+Impresora,873.09,Stripe,MasterCard,Banco Internacional,Oceanía,714 Calle Falsa,user499@ficticio.com
+Reloj inteligente,121.44,Apple Pay,Discover,Banco Internacional,Oceanía,363 Camino Nuevo,user8620@dominio.com
+Monitor,1098.18,Stripe,Amex,Banco Seguro,África,197 Avenida Real,user7346@ficticio.com
+Smartphone,1381.02,PayPal,MasterCard,Banco Nacional,Sudamérica,714 Calle Falsa,user4167@ficticio.com
+Tablet,842.82,Google Pay,Visa,Banco Internacional,Sudamérica,714 Calle Falsa,user4211@correo.com
+Cámara,1427.54,Stripe,Visa,Banco Seguro,Europa,197 Avenida Real,user8695@dominio.com
+Televisor,487.8,Square,Maestro,Banco Seguro,Asia,197 Avenida Real,user7786@ficticio.com
+Consola,289.23,Google Pay,Maestro,Banco Nacional,Europa,197 Avenida Real,user8231@correo.com
+Impresora,1867.14,Square,MasterCard,Banco Seguro,Sudamérica,197 Avenida Real,user984@correo.com
+Consola,1597.95,Apple Pay,Visa,Banco Internacional,Asia,714 Calle Falsa,user4277@correo.com
+Reloj inteligente,1663.93,PayPal,MasterCard,Banco del Pueblo,Norteamérica,363 Camino Nuevo,user6500@dominio.com
+Cámara,1243.23,Square,MasterCard,Banco Nacional,África,714 Calle Falsa,user3197@dominio.com
+Smartphone,1422.87,Square,MasterCard,Banco Internacional,África,714 Calle Falsa,user3789@ejemplo.com
+Reloj inteligente,941.02,Square,MasterCard,Banco del Pueblo,Sudamérica,714 Calle Falsa,user834@ejemplo.com
+Impresora,1593.07,Authorize.net,MasterCard,Banco Nacional,Europa,901 Vía Antigua,user1133@correo.com
+Smartphone,1694.71,Google Pay,Discover,Banco Ficticio,Europa,197 Avenida Real,user3530@ficticio.com
+Smartphone,204.08,Stripe,Visa,Banco Internacional,Asia,901 Vía Antigua,user487@correo.com
+Smartphone,1857.6,Square,Discover,Banco Internacional,África,197 Avenida Real,user4557@dominio.com
+Auriculares,816.06,Stripe,MasterCard,Banco Internacional,Asia,714 Calle Falsa,user2787@correo.com
+Monitor,1470.45,Stripe,Maestro,Banco del Pueblo,Oceanía,197 Avenida Real,user7514@dominio.com
+Impresora,536.09,Stripe,Discover,Banco Ficticio,Oceanía,197 Avenida Real,user5609@correo.com
+Smartphone,1254.82,Apple Pay,MasterCard,Banco Nacional,Oceanía,363 Camino Nuevo,user581@ejemplo.com
+Televisor,925.11,PayPal,MasterCard,Banco Seguro,Sudamérica,901 Vía Antigua,user8515@ficticio.com
+Tablet,104.55,Stripe,Discover,Banco del Pueblo,Norteamérica,901 Vía Antigua,user2680@ficticio.com
+Impresora,387.91,PayPal,Amex,Banco Internacional,Oceanía,714 Calle Falsa,user3972@dominio.com
+Laptop,1749.37,Stripe,Maestro,Banco Ficticio,Oceanía,197 Avenida Real,user7819@dominio.com
+Consola,1089.77,Square,Visa,Banco Nacional,África,197 Avenida Real,user4560@ficticio.com
+Consola,590.22,Google Pay,Amex,Banco Seguro,Europa,714 Calle Falsa,user2423@ficticio.com
+Reloj inteligente,997.53,Square,Discover,Banco Ficticio,Sudamérica,197 Avenida Real,user2275@dominio.com
+Reloj inteligente,1407.53,Stripe,MasterCard,Banco Internacional,Europa,714 Calle Falsa,user6491@dominio.com
+Cámara,1377.21,Apple Pay,Amex,Banco Nacional,África,714 Calle Falsa,user6821@correo.com
+Televisor,1415.62,Square,Visa,Banco Nacional,Sudamérica,197 Avenida Real,user8328@correo.com
+Smartphone,177.11,Square,Amex,Banco Seguro,Oceanía,901 Vía Antigua,user4337@ficticio.com
+Reloj inteligente,1171.82,Square,Amex,Banco del Pueblo,Europa,197 Avenida Real,user9789@ficticio.com
+Impresora,574.42,Stripe,Maestro,Banco Nacional,Sudamérica,197 Avenida Real,user3717@correo.com
+Auriculares,939.18,Authorize.net,MasterCard,Banco Seguro,África,363 Camino Nuevo,user9995@correo.com
+Smartphone,1790.34,Stripe,Visa,Banco Seguro,Sudamérica,901 Vía Antigua,user4673@ficticio.com
+Reloj inteligente,119.68,Square,MasterCard,Banco Nacional,Europa,714 Calle Falsa,user4762@dominio.com
+Reloj inteligente,1531.64,Apple Pay,Visa,Banco Ficticio,África,901 Vía Antigua,user1153@ficticio.com
+Consola,311.1,PayPal,Discover,Banco del Pueblo,Europa,197 Avenida Real,user8618@correo.com
+Consola,639.6,Square,Maestro,Banco Nacional,Oceanía,197 Avenida Real,user6645@dominio.com
+Auriculares,1329.49,Square,Amex,Banco Internacional,Sudamérica,714 Calle Falsa,user7448@correo.com
+Tablet,1829.61,Google Pay,MasterCard,Banco del Pueblo,Norteamérica,363 Camino Nuevo,user2039@ejemplo.com
+Tablet,1238.28,Authorize.net,Amex,Banco Ficticio,Europa,197 Avenida Real,user6786@correo.com
+Reloj inteligente,89.3,Google Pay,Visa,Banco Ficticio,África,197 Avenida Real,user1133@dominio.com
+Televisor,670.12,Google Pay,Visa,Banco Seguro,África,197 Avenida Real,user2075@dominio.com
+Televisor,1631.42,Google Pay,Amex,Banco Internacional,Oceanía,197 Avenida Real,user3332@dominio.com
+Reloj inteligente,1896.33,Authorize.net,Maestro,Banco Nacional,Oceanía,714 Calle Falsa,user6195@correo.com
+Cámara,633.44,PayPal,Discover,Banco Seguro,Sudamérica,714 Calle Falsa,user8778@dominio.com
+Impresora,1345.17,Square,Visa,Banco Ficticio,África,197 Avenida Real,user4185@ficticio.com
+Cámara,596.42,Stripe,Amex,Banco del Pueblo,Europa,714 Calle Falsa,user9270@ficticio.com
+Monitor,1765.0,Authorize.net,Discover,Banco Ficticio,Oceanía,363 Camino Nuevo,user8688@correo.com
+Laptop,134.44,Google Pay,Amex,Banco Internacional,Europa,901 Vía Antigua,user5917@dominio.com
+Televisor,772.18,Stripe,MasterCard,Banco del Pueblo,Norteamérica,901 Vía Antigua,user899@ejemplo.com
+Cámara,852.12,PayPal,Discover,Banco Seguro,Europa,901 Vía Antigua,user6710@ejemplo.com
+Tablet,419.26,Authorize.net,Visa,Banco del Pueblo,Norteamérica,714 Calle Falsa,user2931@dominio.com
+Televisor,250.5,PayPal,Maestro,Banco Nacional,Oceanía,714 Calle Falsa,user7806@ficticio.com
+Cámara,1131.37,Authorize.net,Visa,Banco Nacional,Europa,363 Camino Nuevo,user6046@correo.com
+Auriculares,1609.44,Stripe,Amex,Banco Nacional,Sudamérica,197 Avenida Real,user1248@ficticio.com
+Consola,1609.85,Square,Visa,Banco Seguro,Oceanía,197 Avenida Real,user9863@ejemplo.com
+Impresora,395.53,Apple Pay,MasterCard,Banco Internacional,África,714 Calle Falsa,user5524@dominio.com
+Cámara,1400.8,Apple Pay,Maestro,Banco Internacional,Europa,363 Camino Nuevo,user7368@ejemplo.com
+Monitor,452.8,Stripe,Maestro,Banco Nacional,Oceanía,901 Vía Antigua,user8045@ficticio.com
+Cámara,209.84,Stripe,Amex,Banco del Pueblo,Norteamérica,363 Camino Nuevo,user7874@correo.com
+Tablet,1856.21,Google Pay,MasterCard,Banco Nacional,África,197 Avenida Real,user6562@ficticio.com
+Consola,1421.9,Stripe,Discover,Banco Nacional,Oceanía,901 Vía Antigua,user9049@correo.com
+Laptop,1903.42,PayPal,Discover,Banco Nacional,Europa,714 Calle Falsa,user5101@dominio.com
+Tablet,1505.23,Google Pay,MasterCard,Banco Seguro,Norteamérica,363 Camino Nuevo,user409@dominio.com
+Consola,1175.76,Authorize.net,MasterCard,Banco Seguro,Europa,363 Camino Nuevo,user4235@correo.com
+Televisor,973.63,Apple Pay,MasterCard,Banco Seguro,África,363 Camino Nuevo,user9326@ejemplo.com
+Auriculares,331.13,PayPal,Amex,Banco Nacional,Sudamérica,197 Avenida Real,user648@ejemplo.com
+Tablet,527.36,Apple Pay,Amex,Banco Seguro,África,363 Camino Nuevo,user6216@ejemplo.com
+Cámara,206.51,Google Pay,MasterCard,Banco del Pueblo,Asia,901 Vía Antigua,user8529@ficticio.com
+Consola,1979.94,Apple Pay,Visa,Banco del Pueblo,Oceanía,197 Avenida Real,user1594@ficticio.com
+Reloj inteligente,1087.49,Apple Pay,Visa,Banco Nacional,Norteamérica,901 Vía Antigua,user1294@correo.com
+Cámara,402.28,Square,Visa,Banco del Pueblo,Norteamérica,197 Avenida Real,user8606@correo.com
+Reloj inteligente,1743.45,Google Pay,Visa,Banco del Pueblo,Sudamérica,197 Avenida Real,user3716@dominio.com
+Consola,1193.0,Square,Visa,Banco Seguro,Oceanía,363 Camino Nuevo,user6143@ficticio.com
+Consola,1385.74,Apple Pay,Maestro,Banco Seguro,Sudamérica,901 Vía Antigua,user3113@ficticio.com
+Cámara,522.85,Apple Pay,MasterCard,Banco Nacional,Oceanía,363 Camino Nuevo,user487@ficticio.com
+Laptop,516.95,Authorize.net,Maestro,Banco Nacional,Oceanía,901 Vía Antigua,user8263@ficticio.com
+Auriculares,525.99,Stripe,MasterCard,Banco Internacional,Oceanía,901 Vía Antigua,user2238@correo.com
+Impresora,1990.15,PayPal,Amex,Banco Seguro,Norteamérica,197 Avenida Real,user8791@ficticio.com
+Televisor,638.85,PayPal,Discover,Banco Seguro,África,363 Camino Nuevo,user3890@dominio.com
+Laptop,1009.48,Stripe,Maestro,Banco Seguro,Sudamérica,714 Calle Falsa,user7530@ficticio.com
+Reloj inteligente,1234.99,Apple Pay,MasterCard,Banco Ficticio,Sudamérica,714 Calle Falsa,user7070@correo.com
+Auriculares,1713.79,Google Pay,Amex,Banco Ficticio,Sudamérica,363 Camino Nuevo,user4743@ficticio.com
+Monitor,273.47,Square,Amex,Banco Nacional,Europa,197 Avenida Real,user6203@ejemplo.com
+Cámara,1858.45,Google Pay,Amex,Banco Seguro,África,901 Vía Antigua,user9479@ficticio.com
+Smartphone,205.13,Apple Pay,Visa,Banco Seguro,Europa,197 Avenida Real,user4791@correo.com
+Tablet,116.91,PayPal,Amex,Banco Ficticio,África,363 Camino Nuevo,user6725@dominio.com
+Cámara,1958.35,Stripe,Maestro,Banco Seguro,Europa,714 Calle Falsa,user3806@correo.com
+Tablet,141.53,Square,Maestro,Banco Ficticio,Norteamérica,363 Camino Nuevo,user4717@ejemplo.com
+Reloj inteligente,1524.67,Square,Maestro,Banco del Pueblo,Sudamérica,714 Calle Falsa,user3864@dominio.com
+Cámara,1631.68,Stripe,Maestro,Banco Seguro,Europa,363 Camino Nuevo,user6695@ficticio.com
+Tablet,420.34,Google Pay,Amex,Banco Ficticio,Europa,901 Vía Antigua,user6313@dominio.com
+Consola,1865.52,Authorize.net,Visa,Banco Internacional,África,714 Calle Falsa,user3754@ejemplo.com
+Consola,1699.93,Google Pay,Amex,Banco Ficticio,Oceanía,901 Vía Antigua,user9664@ficticio.com
+Tablet,1930.92,Square,Amex,Banco Internacional,Sudamérica,714 Calle Falsa,user7341@correo.com
+Monitor,1108.97,Google Pay,MasterCard,Banco del Pueblo,Sudamérica,714 Calle Falsa,user3542@ejemplo.com
+Monitor,621.55,PayPal,Discover,Banco Seguro,Oceanía,363 Camino Nuevo,user9938@ejemplo.com
+Monitor,410.97,Square,Amex,Banco Internacional,Norteamérica,197 Avenida Real,user9692@ficticio.com
+Monitor,1854.47,Authorize.net,Discover,Banco Nacional,Asia,901 Vía Antigua,user4088@ficticio.com
+Monitor,1864.95,Stripe,MasterCard,Banco Seguro,Oceanía,714 Calle Falsa,user5952@ficticio.com
+Consola,201.64,Square,Discover,Banco Internacional,Oceanía,714 Calle Falsa,user7581@dominio.com
+Televisor,1387.33,Google Pay,Amex,Banco Seguro,Asia,714 Calle Falsa,user8890@ficticio.com
+Laptop,1319.12,Apple Pay,Discover,Banco del Pueblo,Oceanía,901 Vía Antigua,user9580@correo.com
+Smartphone,904.92,Authorize.net,Visa,Banco del Pueblo,Norteamérica,363 Camino Nuevo,user5576@correo.com
+Televisor,660.55,Stripe,Maestro,Banco del Pueblo,Oceanía,363 Camino Nuevo,user9912@correo.com
+Cámara,1293.16,Google Pay,MasterCard,Banco Seguro,Europa,197 Avenida Real,user6388@ejemplo.com
+Reloj inteligente,1357.4,Square,Discover,Banco Nacional,África,363 Camino Nuevo,user7642@ejemplo.com
+Auriculares,1454.56,Google Pay,MasterCard,Banco Ficticio,Norteamérica,363 Camino Nuevo,user7555@ficticio.com
+Consola,1973.97,Google Pay,Discover,Banco Internacional,Norteamérica,714 Calle Falsa,user7318@ejemplo.com
+Reloj inteligente,980.62,PayPal,Discover,Banco Nacional,África,714 Calle Falsa,user4642@ficticio.com
+Cámara,1113.96,PayPal,Discover,Banco Seguro,África,363 Camino Nuevo,user4099@ejemplo.com
+Consola,1706.98,Square,Discover,Banco Seguro,Oceanía,197 Avenida Real,user2341@ficticio.com
+Laptop,727.03,Square,Visa,Banco Internacional,Norteamérica,197 Avenida Real,user2530@ejemplo.com
+Consola,241.08,Apple Pay,Amex,Banco Internacional,Europa,363 Camino Nuevo,user5718@correo.com
+Monitor,1623.72,Square,Visa,Banco Nacional,Oceanía,901 Vía Antigua,user7316@ejemplo.com
+Smartphone,831.33,Stripe,MasterCard,Banco Seguro,Asia,197 Avenida Real,user222@ejemplo.com
+Laptop,633.91,Apple Pay,Visa,Banco Nacional,Oceanía,901 Vía Antigua,user3660@dominio.com
+Tablet,427.1,Square,Discover,Banco del Pueblo,Sudamérica,901 Vía Antigua,user789@ejemplo.com
+Smartphone,1981.34,Stripe,MasterCard,Banco Ficticio,Sudamérica,197 Avenida Real,user8212@ficticio.com
+Smartphone,337.91,Apple Pay,MasterCard,Banco Nacional,Norteamérica,714 Calle Falsa,user1390@dominio.com
+Smartphone,1176.99,Apple Pay,MasterCard,Banco Seguro,Europa,714 Calle Falsa,user1778@correo.com
+Reloj inteligente,1232.44,Square,MasterCard,Banco Internacional,Sudamérica,901 Vía Antigua,user4859@dominio.com
+Smartphone,1319.11,Authorize.net,Visa,Banco Ficticio,Oceanía,714 Calle Falsa,user8211@dominio.com
+Tablet,1045.24,Square,Amex,Banco Internacional,Norteamérica,714 Calle Falsa,user7864@dominio.com
+Consola,849.57,Apple Pay,Visa,Banco Nacional,Sudamérica,714 Calle Falsa,user3693@correo.com
+Cámara,688.88,Apple Pay,Maestro,Banco Nacional,África,714 Calle Falsa,user8242@ficticio.com
+Smartphone,182.12,PayPal,Discover,Banco Seguro,Europa,901 Vía Antigua,user5943@ficticio.com
+Monitor,1490.27,Apple Pay,Visa,Banco Internacional,Sudamérica,901 Vía Antigua,user9105@ejemplo.com
+Televisor,573.13,Stripe,Amex,Banco del Pueblo,Norteamérica,714 Calle Falsa,user4729@ejemplo.com
+Auriculares,1256.12,Authorize.net,Visa,Banco Internacional,Europa,197 Avenida Real,user6202@ejemplo.com
+Impresora,586.85,Apple Pay,Visa,Banco Seguro,Oceanía,363 Camino Nuevo,user9155@dominio.com
+Reloj inteligente,329.97,Apple Pay,Maestro,Banco del Pueblo,Asia,197 Avenida Real,user9118@correo.com
+Televisor,768.1,Square,Discover,Banco Internacional,Asia,714 Calle Falsa,user8469@ejemplo.com
+Laptop,757.09,Apple Pay,Visa,Banco Internacional,África,197 Avenida Real,user2983@dominio.com
+Tablet,1137.17,Authorize.net,Discover,Banco Seguro,Norteamérica,363 Camino Nuevo,user8424@ejemplo.com
+Consola,1662.98,Square,Maestro,Banco Nacional,Sudamérica,901 Vía Antigua,user1149@ejemplo.com
+Impresora,1731.52,Stripe,MasterCard,Banco Ficticio,Asia,197 Avenida Real,user7481@correo.com
+Impresora,978.11,Apple Pay,Visa,Banco Ficticio,Europa,714 Calle Falsa,user9328@dominio.com
+Tablet,1059.52,Square,Discover,Banco del Pueblo,Sudamérica,714 Calle Falsa,user1469@dominio.com
+Televisor,758.09,Apple Pay,Maestro,Banco Nacional,Europa,197 Avenida Real,user6945@correo.com
+Consola,693.81,Apple Pay,Visa,Banco Internacional,Europa,363 Camino Nuevo,user1008@ficticio.com
+Consola,351.06,Google Pay,Discover,Banco Nacional,Sudamérica,197 Avenida Real,user1155@ficticio.com
+Cámara,273.84,PayPal,Amex,Banco Seguro,África,714 Calle Falsa,user3183@ejemplo.com
+Cámara,693.15,Square,Visa,Banco Seguro,África,901 Vía Antigua,user1276@dominio.com
+Televisor,1016.81,Apple Pay,Maestro,Banco del Pueblo,Norteamérica,363 Camino Nuevo,user4653@ejemplo.com
+Monitor,1974.52,Square,Amex,Banco Seguro,África,197 Avenida Real,user4134@dominio.com
+Reloj inteligente,1809.94,Authorize.net,Maestro,Banco Nacional,África,363 Camino Nuevo,user6713@dominio.com
+Auriculares,777.25,PayPal,Amex,Banco Nacional,Oceanía,714 Calle Falsa,user5781@ejemplo.com
+Tablet,1186.0,PayPal,Amex,Banco Nacional,África,363 Camino Nuevo,user8050@ficticio.com
+Monitor,306.66,Square,Visa,Banco Ficticio,Sudamérica,714 Calle Falsa,user5875@ejemplo.com
+Monitor,10.69,Google Pay,MasterCard,Banco Seguro,Sudamérica,197 Avenida Real,user3757@ejemplo.com
+Cámara,122.82,PayPal,Visa,Banco Internacional,Oceanía,714 Calle Falsa,user9631@dominio.com
+Auriculares,555.01,Google Pay,Discover,Banco Nacional,Asia,714 Calle Falsa,user932@dominio.com
+Tablet,1563.69,PayPal,Amex,Banco Nacional,África,714 Calle Falsa,user3759@dominio.com
+Smartphone,625.98,Stripe,Discover,Banco Seguro,África,363 Camino Nuevo,user3014@dominio.com
+Smartphone,1279.99,Square,Discover,Banco Nacional,Europa,714 Calle Falsa,user1493@correo.com
+Smartphone,1780.19,Square,Discover,Banco del Pueblo,Europa,714 Calle Falsa,user7640@ficticio.com
+Reloj inteligente,1039.88,Authorize.net,Visa,Banco Ficticio,Sudamérica,197 Avenida Real,user7499@correo.com
+Impresora,202.48,Google Pay,Maestro,Banco Nacional,Sudamérica,363 Camino Nuevo,user1114@dominio.com
+Impresora,294.01,Square,MasterCard,Banco del Pueblo,Oceanía,901 Vía Antigua,user1777@dominio.com
+Laptop,1169.47,Google Pay,Visa,Banco Internacional,Europa,714 Calle Falsa,user5199@ejemplo.com
+Auriculares,1741.39,Google Pay,Discover,Banco Nacional,Norteamérica,197 Avenida Real,user5889@ejemplo.com
+Reloj inteligente,1482.42,Square,Maestro,Banco Internacional,África,197 Avenida Real,user6129@correo.com
+Cámara,1260.36,PayPal,Maestro,Banco Seguro,Asia,363 Camino Nuevo,user4813@ejemplo.com
+Reloj inteligente,1847.89,Stripe,Discover,Banco Nacional,Sudamérica,197 Avenida Real,user3419@ejemplo.com
+Monitor,1230.49,Stripe,Amex,Banco Ficticio,África,901 Vía Antigua,user7434@dominio.com
+Auriculares,302.41,Apple Pay,Amex,Banco del Pueblo,África,901 Vía Antigua,user9865@ficticio.com
+Impresora,1811.03,Apple Pay,MasterCard,Banco Ficticio,Oceanía,901 Vía Antigua,user5244@ejemplo.com
+Auriculares,1582.8,Authorize.net,Amex,Banco Ficticio,África,714 Calle Falsa,user6062@ficticio.com
+Consola,843.83,PayPal,Visa,Banco Ficticio,Oceanía,363 Camino Nuevo,user200@correo.com
+Televisor,287.44,Google Pay,MasterCard,Banco Internacional,Asia,197 Avenida Real,user7214@correo.com
+Cámara,461.08,PayPal,MasterCard,Banco Seguro,Oceanía,197 Avenida Real,user8792@ejemplo.com
+Smartphone,685.13,Square,MasterCard,Banco Ficticio,Norteamérica,363 Camino Nuevo,user2841@ejemplo.com
+Reloj inteligente,1853.7,PayPal,Discover,Banco Nacional,África,363 Camino Nuevo,user3454@ejemplo.com
+Auriculares,1508.91,Apple Pay,Amex,Banco Seguro,Norteamérica,901 Vía Antigua,user270@ficticio.com
+Auriculares,1891.79,Authorize.net,Visa,Banco Seguro,Sudamérica,714 Calle Falsa,user268@correo.com
+Laptop,1831.63,Google Pay,Amex,Banco Internacional,Sudamérica,714 Calle Falsa,user8392@correo.com
+Cámara,1827.96,PayPal,MasterCard,Banco Internacional,Oceanía,197 Avenida Real,user1451@correo.com
+Smartphone,1750.85,Authorize.net,Maestro,Banco Nacional,Norteamérica,197 Avenida Real,user5464@ejemplo.com
+Impresora,1480.07,PayPal,MasterCard,Banco Nacional,Sudamérica,197 Avenida Real,user3731@ejemplo.com
+Impresora,1291.8,Square,Visa,Banco Nacional,Oceanía,197 Avenida Real,user2473@ficticio.com
+Smartphone,1509.93,Authorize.net,Visa,Banco Seguro,Asia,363 Camino Nuevo,user1382@correo.com
+Cámara,1857.51,Square,Amex,Banco del Pueblo,África,714 Calle Falsa,user2824@ejemplo.com
+Impresora,359.65,Authorize.net,Amex,Banco del Pueblo,Europa,363 Camino Nuevo,user4607@dominio.com
+Tablet,1204.54,Stripe,Visa,Banco del Pueblo,Sudamérica,901 Vía Antigua,user6130@dominio.com
+Monitor,173.8,Apple Pay,Amex,Banco Ficticio,África,363 Camino Nuevo,user6254@dominio.com
+Cámara,317.15,PayPal,MasterCard,Banco del Pueblo,Sudamérica,901 Vía Antigua,user6236@ejemplo.com
+Smartphone,825.72,Stripe,Maestro,Banco Seguro,Oceanía,197 Avenida Real,user384@dominio.com
+Consola,118.91,Apple Pay,MasterCard,Banco Seguro,Asia,197 Avenida Real,user7423@ejemplo.com
+Impresora,267.96,PayPal,Discover,Banco Seguro,Oceanía,363 Camino Nuevo,user5130@correo.com
+Televisor,1164.42,Google Pay,MasterCard,Banco Internacional,Europa,901 Vía Antigua,user5557@correo.com
+Televisor,1547.97,Stripe,MasterCard,Banco Nacional,África,197 Avenida Real,user4301@correo.com
+Reloj inteligente,1697.64,Google Pay,Visa,Banco Seguro,Europa,714 Calle Falsa,user5996@dominio.com
+Laptop,1519.9,Apple Pay,Amex,Banco Internacional,Norteamérica,363 Camino Nuevo,user1825@ficticio.com
+Tablet,1733.46,Square,Maestro,Banco Nacional,Norteamérica,197 Avenida Real,user4269@dominio.com
+Smartphone,897.3,Authorize.net,Maestro,Banco Ficticio,Oceanía,197 Avenida Real,user4735@correo.com
+Smartphone,1598.26,PayPal,Amex,Banco Internacional,Europa,901 Vía Antigua,user3811@dominio.com
+Reloj inteligente,1302.82,Square,MasterCard,Banco Ficticio,Norteamérica,714 Calle Falsa,user2240@ficticio.com
+Laptop,333.81,Google Pay,Visa,Banco del Pueblo,Sudamérica,714 Calle Falsa,user4391@ficticio.com
+Reloj inteligente,67.16,Google Pay,Maestro,Banco Nacional,Asia,714 Calle Falsa,user4791@ficticio.com
+Auriculares,1194.04,Authorize.net,Visa,Banco Nacional,Oceanía,901 Vía Antigua,user2315@ficticio.com
+Monitor,380.76,Google Pay,Amex,Banco Nacional,Norteamérica,363 Camino Nuevo,user122@dominio.com
+Televisor,309.47,PayPal,Visa,Banco Nacional,Oceanía,363 Camino Nuevo,user5409@correo.com
+Tablet,161.81,PayPal,Amex,Banco del Pueblo,Europa,901 Vía Antigua,user9892@correo.com
+Reloj inteligente,1917.88,Authorize.net,Maestro,Banco Internacional,Europa,901 Vía Antigua,user6636@correo.com
+Auriculares,509.25,Stripe,Discover,Banco Internacional,Oceanía,197 Avenida Real,user4179@correo.com
+Monitor,578.89,Apple Pay,MasterCard,Banco del Pueblo,Asia,197 Avenida Real,user802@ficticio.com
+Smartphone,1390.74,Google Pay,Visa,Banco Seguro,África,714 Calle Falsa,user9160@dominio.com
+Smartphone,680.13,Google Pay,Discover,Banco Nacional,África,714 Calle Falsa,user9550@ficticio.com
+Tablet,1446.89,Apple Pay,MasterCard,Banco del Pueblo,Asia,363 Camino Nuevo,user3901@ficticio.com
+Reloj inteligente,745.6,Apple Pay,Amex,Banco del Pueblo,Oceanía,197 Avenida Real,user866@correo.com
+Smartphone,757.36,Apple Pay,Visa,Banco del Pueblo,Norteamérica,363 Camino Nuevo,user7576@ficticio.com
+Monitor,1650.1,Apple Pay,MasterCard,Banco Nacional,África,714 Calle Falsa,user7236@dominio.com
+Auriculares,1189.22,Stripe,Amex,Banco Nacional,Oceanía,363 Camino Nuevo,user1188@ejemplo.com
+Reloj inteligente,481.86,PayPal,Discover,Banco Seguro,Norteamérica,901 Vía Antigua,user7772@ficticio.com
+Consola,954.15,Stripe,Discover,Banco Seguro,Asia,363 Camino Nuevo,user2367@correo.com
+Laptop,1985.05,PayPal,Discover,Banco del Pueblo,Oceanía,901 Vía Antigua,user9087@ficticio.com
+Televisor,517.67,Authorize.net,Maestro,Banco Nacional,África,363 Camino Nuevo,user3391@correo.com
+Consola,155.34,Authorize.net,Amex,Banco Nacional,Europa,197 Avenida Real,user4748@dominio.com
+Auriculares,776.32,Google Pay,MasterCard,Banco Internacional,Oceanía,901 Vía Antigua,user5426@correo.com
+Cámara,1656.15,Stripe,Amex,Banco Ficticio,Norteamérica,197 Avenida Real,user5176@ficticio.com
+Smartphone,510.89,Google Pay,Discover,Banco del Pueblo,África,901 Vía Antigua,user5621@dominio.com
+Impresora,239.19,Square,Maestro,Banco Ficticio,África,363 Camino Nuevo,user7201@dominio.com
+Laptop,1913.62,Google Pay,Visa,Banco Internacional,Asia,901 Vía Antigua,user9057@ejemplo.com
+Consola,67.72,Authorize.net,Maestro,Banco del Pueblo,Europa,714 Calle Falsa,user5463@ficticio.com
+Auriculares,1658.78,Google Pay,Amex,Banco del Pueblo,Norteamérica,901 Vía Antigua,user6676@ejemplo.com
+Auriculares,1563.95,Authorize.net,Discover,Banco del Pueblo,Oceanía,197 Avenida Real,user3274@correo.com
+Impresora,61.6,PayPal,Visa,Banco del Pueblo,Asia,197 Avenida Real,user4335@ejemplo.com
+Monitor,1473.55,Google Pay,Amex,Banco Internacional,Sudamérica,197 Avenida Real,user8280@ejemplo.com
+Impresora,685.52,PayPal,Maestro,Banco Seguro,Norteamérica,363 Camino Nuevo,user9819@dominio.com
+Laptop,50.14,Authorize.net,MasterCard,Banco Internacional,Norteamérica,197 Avenida Real,user7004@correo.com
+Smartphone,60.69,PayPal,Visa,Banco del Pueblo,Europa,901 Vía Antigua,user532@ejemplo.com
+Auriculares,332.24,PayPal,Discover,Banco Nacional,Europa,901 Vía Antigua,user7957@ejemplo.com
+Consola,1439.8,Authorize.net,Maestro,Banco Seguro,Europa,363 Camino Nuevo,user6239@dominio.com
+Monitor,850.19,PayPal,Maestro,Banco del Pueblo,Oceanía,197 Avenida Real,user1618@dominio.com
+Impresora,1864.57,Authorize.net,Amex,Banco Nacional,Norteamérica,197 Avenida Real,user2794@correo.com
+Tablet,141.92,Apple Pay,Visa,Banco Ficticio,África,363 Camino Nuevo,user280@ficticio.com
+Consola,648.3,PayPal,Discover,Banco Nacional,África,197 Avenida Real,user4369@correo.com
+Reloj inteligente,876.99,Stripe,Maestro,Banco Ficticio,Asia,901 Vía Antigua,user4042@correo.com
+Monitor,1464.01,Google Pay,Amex,Banco Internacional,Europa,363 Camino Nuevo,user4092@dominio.com
+Televisor,181.7,PayPal,Visa,Banco del Pueblo,África,197 Avenida Real,user7615@dominio.com
+Auriculares,1073.67,Stripe,Visa,Banco Nacional,Sudamérica,901 Vía Antigua,user8700@ficticio.com
+Smartphone,1017.66,Stripe,Amex,Banco Internacional,Europa,901 Vía Antigua,user4458@correo.com
+Cámara,1909.06,Google Pay,Visa,Banco Internacional,África,363 Camino Nuevo,user7804@correo.com
+Tablet,1518.46,PayPal,Maestro,Banco Internacional,Asia,714 Calle Falsa,user9579@dominio.com
+Monitor,256.44,Stripe,Discover,Banco Internacional,Asia,363 Camino Nuevo,user3017@ficticio.com
+Auriculares,1854.37,PayPal,Amex,Banco Ficticio,Sudamérica,901 Vía Antigua,user9824@correo.com
+Cámara,378.32,Authorize.net,Maestro,Banco Nacional,Oceanía,901 Vía Antigua,user1915@correo.com
+Reloj inteligente,1615.04,Apple Pay,Amex,Banco Nacional,Sudamérica,197 Avenida Real,user1274@ejemplo.com
+Smartphone,1894.73,Stripe,MasterCard,Banco Nacional,Sudamérica,714 Calle Falsa,user7079@dominio.com
+Impresora,1586.91,Google Pay,Amex,Banco del Pueblo,Oceanía,714 Calle Falsa,user811@correo.com
+Reloj inteligente,800.82,Square,Discover,Banco del Pueblo,Europa,197 Avenida Real,user9306@ficticio.com
+Laptop,636.54,PayPal,Amex,Banco Internacional,Europa,363 Camino Nuevo,user584@correo.com
+Smartphone,850.55,Square,Discover,Banco Ficticio,Asia,363 Camino Nuevo,user9210@dominio.com
+Cámara,1801.49,Stripe,MasterCard,Banco Ficticio,Sudamérica,714 Calle Falsa,user7985@correo.com
+Televisor,1953.01,PayPal,Amex,Banco Nacional,Sudamérica,197 Avenida Real,user4181@ficticio.com
+Tablet,1298.75,Stripe,Maestro,Banco del Pueblo,Oceanía,197 Avenida Real,user2240@ejemplo.com
+Tablet,794.18,Apple Pay,Visa,Banco Seguro,África,197 Avenida Real,user4923@dominio.com
+Smartphone,1626.1,Authorize.net,Discover,Banco Ficticio,Oceanía,197 Avenida Real,user9663@dominio.com
+Cámara,449.78,PayPal,Amex,Banco del Pueblo,África,197 Avenida Real,user9527@ficticio.com
+Televisor,829.94,PayPal,Maestro,Banco Internacional,África,901 Vía Antigua,user5669@dominio.com
+Televisor,1990.02,PayPal,Discover,Banco Ficticio,África,197 Avenida Real,user723@ficticio.com
+Laptop,974.01,Square,Visa,Banco Seguro,Europa,901 Vía Antigua,user752@correo.com
+Consola,1371.17,Apple Pay,Amex,Banco Seguro,Norteamérica,714 Calle Falsa,user6432@dominio.com
+Auriculares,1010.63,Google Pay,MasterCard,Banco Seguro,Norteamérica,901 Vía Antigua,user4833@ficticio.com
+Cámara,854.25,Square,Amex,Banco Nacional,Oceanía,197 Avenida Real,user8811@ficticio.com
+Smartphone,288.73,Stripe,Visa,Banco Seguro,Norteamérica,901 Vía Antigua,user3533@ejemplo.com
+Smartphone,737.84,Square,Amex,Banco Ficticio,Asia,714 Calle Falsa,user5432@ejemplo.com
+Cámara,961.59,PayPal,Maestro,Banco Seguro,Norteamérica,197 Avenida Real,user9675@ficticio.com
