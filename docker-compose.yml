@@ -1,0 +1,105 @@
+version: '3'
+services:
+  # Servicio de Zookeeper
+  zookeeper:
+    image: bitnami/zookeeper:3.9.1
+    tmpfs: "/zktmp"
+    environment:
+      ALLOW_ANONYMOUS_LOGIN: 'yes'
+    ports:
+      - "2181:2181"
+    networks:
+      - tarea2distro_network
+
+  # Broker de Kafka
+  kafka1:
+    image: bitnami/kafka:3.7.0
+    depends_on:
+      - zookeeper
+    environment:
+      KAFKA_BROKER_ID: 1
+      KAFKA_CFG_ZOOKEEPER_CONNECT: zookeeper:2181
+      KAFKA_CFG_LISTENERS: INTERNAL://:9092,EXTERNAL://0.0.0.0:9093
+      KAFKA_CFG_ADVERTISED_LISTENERS: INTERNAL://kafka1:9092,EXTERNAL://localhost:9093
+      KAFKA_CFG_LISTENER_SECURITY_PROTOCOL_MAP: INTERNAL:PLAINTEXT,EXTERNAL:PLAINTEXT
+      KAFKA_CFG_INTER_BROKER_LISTENER_NAME: INTERNAL
+      ALLOW_PLAINTEXT_LISTENER: 'yes'
+    ports:
+      - "9092:9092"
+      - "9093:9093"
+    volumes:
+      - kafka_data1:/bitnami/kafka
+    networks:
+      - tarea2distro_network
+
+  # UI para Kafka
+  kafka-ui:
+    image: provectuslabs/kafka-ui:latest
+    depends_on:
+      - kafka1
+    ports:
+      - "8080:8080"
+    environment:
+      KAFKA_CLUSTERS_0_NAME: local
+      KAFKA_CLUSTERS_0_BOOTSTRAPSERVERS: kafka1:9092
+      KAFKA_CLUSTERS_0_ZOOKEEPER: zookeeper:2181
+    networks:
+      - tarea2distro_network
+
+  # ElasticSearch
+  elasticsearch:
+    image: docker.elastic.co/elasticsearch/elasticsearch:8.8.0
+    container_name: elasticsearch
+    environment:
+      - discovery.type=single-node
+      - xpack.security.enabled=false
+    ports:
+      - "9200:9200"
+      - "9300:9300"
+    networks:
+      - tarea2distro_network
+
+
+
+  # Kibana para visualización
+  kibana:
+    image: docker.elastic.co/kibana/kibana:8.8.0
+    depends_on:
+      - elasticsearch
+    environment:
+      - ELASTICSEARCH_HOSTS=http://elasticsearch:9200
+    ports:
+      - "5601:5601"
+    networks:
+      - tarea2distro_network
+
+
+
+volumes:
+  kafka_data1:
+    driver: local
+  es_data:
+    driver: local
+
+networks:
+  tarea2distro_network:
+    driver: bridge
+
+  # Consumidor de Kafka para el procesamiento de pedidos
+    # kafka-consumer:
+    #   build: ./kafka_consumer # Cambiar a la ubicación de tu script de consumidor
+    #   depends_on:
+    #     - kafka1
+    #   environment:
+    #     BOOTSTRAP_SERVERS: kafka1:9092
+
+  # gRPC Server (Microservicio de gestión de pedidos)
+    # grpc-server:
+    #   build:
+    #     context: ./gRPC_server
+    #   depends_on:
+    #     - kafka1
+    #   ports:
+    #     - "50051:50051"
+    #   networks:
+    #     - tarea2distro_network
