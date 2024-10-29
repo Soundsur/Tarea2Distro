@@ -29,77 +29,79 @@ Este proyecto utiliza una arquitectura distribuida basada en microservicios para
 ```bash
 git clone https://github.com/Soundsur/Tarea2Distro.git
 cd Tarea2Distro
+```
 
-2. Configurar el Entorno Virtual
+### 2. Configurar el Entorno Virtual
 
 Crear y activar el entorno virtual:
 
-bash
-
+```bash
 python3 -m venv venv
 source venv/bin/activate
-
+```
 Instalar las dependencias:
-
-bash
-
+```bash
 pip install -r gRPC_server/requirements.txt
-
-3. Generar Archivos gRPC
-
+```
+### 3. Generar Archivos gRPC
 Navegar a la carpeta del servidor gRPC:
-
-bash
-
+```bash
 cd gRPC_server
+```
 
+### 4. Navegar a la carpeta del servidor gRPC:
+
+```bash
+cd gRPC_server
+```
 Compilar el archivo orders.proto:
 
-bash
+```bash
 
 python3 -m grpc_tools.protoc -I. --python_out=. --grpc_python_out=. orders.proto
-
+```
 Copiar los archivos generados (orders_pb2.py y orders_pb2_grpc.py) a la carpeta gRPC_client para asegurar la compatibilidad.
 Ejecución del Proyecto
-1. Iniciar el Sistema con Docker Compose
+
+#### 1. Iniciar el Sistema con Docker Compose
 
 Desde la raíz del proyecto, ejecutar:
 
-bash
+```bash
 
 docker compose up --build
-
+```
 Esto iniciará los servicios de Zookeeper, Kafka, Elasticsearch y Kibana. Puedes verificar el estado de Kafka en la interfaz de Kafka-UI accediendo a http://localhost:8080.
-2. Ejecutar el Servidor gRPC
+#### 2. Ejecutar el Servidor gRPC
 
 En una nueva terminal, activar el entorno virtual e iniciar el servidor:
 
-bash
+```bash
 
 source venv/bin/activate
 cd gRPC_server
 python3 grpc_server.py
-
-3. Ejecutar el Cliente gRPC
+```
+#### 3. Ejecutar el Cliente gRPC
 
 En otra terminal, activar el entorno virtual y ejecutar el cliente:
 
-bash
+```bash
 
 source venv/bin/activate
 cd gRPC_client
 python3 grpc_client.py
-
+```
 Esto enviará eventos de compra al servidor gRPC para su procesamiento.
-4. Ejecutar el Consumidor de Kafka
+#### 4. Ejecutar el Consumidor de Kafka
 
 En una nueva terminal, activar el entorno virtual y ejecutar el consumidor:
 
-bash
+```bash
 
 source venv/bin/activate
 python3 consumer.py
-
+```
 Se te pedirá seleccionar el nivel de carga (baja, media, alta) para simular diferentes escenarios de procesamiento.
 Visualización de Métricas en Kibana
 
@@ -110,10 +112,10 @@ Limpieza del Sistema
 
 Para detener y limpiar todos los contenedores y volúmenes, utiliza el siguiente comando:
 
-bash
+```bash
 
 docker compose down --volumes --rmi all --remove-orphans
-
+```
 Notas Adicionales
 
     Asegúrate de activar el entorno virtual en cada terminal antes de ejecutar cualquier componente fuera de Docker.
