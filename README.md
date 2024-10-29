@@ -25,16 +25,16 @@ Este proyecto utiliza una arquitectura distribuida basada en microservicios para
 
 ## Configuración
 
-1. **Clonar el Repositorio**
-   ```bash
-   git clone https://github.com/Soundsur/Tarea2Distro.git
-   cd Tarea2Distro
+### 1. Clonar el Repositorio
+```bash
+git clone https://github.com/Soundsur/Tarea2Distro.git
+cd Tarea2Distro
 
 2. Configurar el Entorno Virtual
 
-    Crear y activar el entorno virtual:
+Crear y activar el entorno virtual:
 
-    bash
+bash
 
 python3 -m venv venv
 source venv/bin/activate
@@ -43,13 +43,13 @@ Instalar las dependencias:
 
 bash
 
-    pip install -r gRPC_server/requirements.txt
+pip install -r gRPC_server/requirements.txt
 
 3. Generar Archivos gRPC
 
-    Navegar a la carpeta del servidor gRPC:
+Navegar a la carpeta del servidor gRPC:
 
-    bash
+bash
 
 cd gRPC_server
 
@@ -57,55 +57,50 @@ Compilar el archivo orders.proto:
 
 bash
 
-    python3 -m grpc_tools.protoc -I. --python_out=. --grpc_python_out=. orders.proto
+python3 -m grpc_tools.protoc -I. --python_out=. --grpc_python_out=. orders.proto
 
-    Copiar los archivos generados (orders_pb2.py y orders_pb2_grpc.py) a la carpeta gRPC_client para asegurar la compatibilidad.
-
+Copiar los archivos generados (orders_pb2.py y orders_pb2_grpc.py) a la carpeta gRPC_client para asegurar la compatibilidad.
 Ejecución del Proyecto
 1. Iniciar el Sistema con Docker Compose
 
-    Desde la raíz del proyecto, ejecutar:
+Desde la raíz del proyecto, ejecutar:
 
-    bash
+bash
 
-    docker compose up --build
+docker compose up --build
 
-    Esto iniciará los servicios de Zookeeper, Kafka, Elasticsearch y Kibana.
-    Puedes verificar el estado de Kafka en la interfaz de Kafka-UI accediendo a http://localhost:8080.
-
+Esto iniciará los servicios de Zookeeper, Kafka, Elasticsearch y Kibana. Puedes verificar el estado de Kafka en la interfaz de Kafka-UI accediendo a http://localhost:8080.
 2. Ejecutar el Servidor gRPC
 
-    En una nueva terminal, activar el entorno virtual e iniciar el servidor:
+En una nueva terminal, activar el entorno virtual e iniciar el servidor:
 
-    bash
+bash
 
-    source venv/bin/activate
-    cd gRPC_server
-    python3 grpc_server.py
+source venv/bin/activate
+cd gRPC_server
+python3 grpc_server.py
 
 3. Ejecutar el Cliente gRPC
 
-    En otra terminal, activar el entorno virtual y ejecutar el cliente:
+En otra terminal, activar el entorno virtual y ejecutar el cliente:
 
-    bash
+bash
 
-    source venv/bin/activate
-    cd gRPC_client
-    python3 grpc_client.py
+source venv/bin/activate
+cd gRPC_client
+python3 grpc_client.py
 
-    Esto enviará eventos de compra al servidor gRPC para su procesamiento.
-
+Esto enviará eventos de compra al servidor gRPC para su procesamiento.
 4. Ejecutar el Consumidor de Kafka
 
-    En una nueva terminal, activar el entorno virtual y ejecutar el consumidor:
+En una nueva terminal, activar el entorno virtual y ejecutar el consumidor:
 
-    bash
+bash
 
-    source venv/bin/activate
-    python3 consumer.py
+source venv/bin/activate
+python3 consumer.py
 
-    Se te pedirá seleccionar el nivel de carga (baja, media, alta) para simular diferentes escenarios de procesamiento.
-
+Se te pedirá seleccionar el nivel de carga (baja, media, alta) para simular diferentes escenarios de procesamiento.
 Visualización de Métricas en Kibana
 
     Abre Kibana en tu navegador en http://localhost:5601.
